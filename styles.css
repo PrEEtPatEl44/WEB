@@ -1,0 +1,22 @@
+#box1{
+    height:400px;
+    width:400px;
+    border: 10px solid black;
+    text-align: center;
+    background-color: aquamarine;
+}
+#box2{
+    height:400px;
+    width:400px;
+    border: 10px solid black;
+    text-align: center;
+    background-color: aquamarine;
+    margin-left: 420px;
+}
+#box3{
+    height:400px;
+    width:400px;
+    border: 10px solid black;
+    text-align: center;
+    background-color: aquamarine;
+}
