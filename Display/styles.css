@@ -1,0 +1,33 @@
+img{
+    height:200px;
+    width:400px;
+    margin-right:20px;
+    margin-bottom:20px;
+    float:left;
+  }
+  #box1{
+    background-color:blue;
+    height:200px;
+    width:200px;
+    margin-bottom:10px;
+    display:inline-block;
+    
+  }
+  #box2{
+    background-color:green;
+    height:200px;
+    width:200px;
+    display:inline-block;
+    margin-bottom:10px;
+  }
+  #box3{
+    background-color:yellow;
+    height:200px;
+    width:200px;
+    display:inline;
+    margin-bottom:10px;
+  }
+  footer{
+    clear:left;
+    
+  }
