@@ -1,0 +1,115 @@
+html{
+    scroll-behavior: smooth;
+    margin:0;
+    padding:0;
+}
+body{
+    scroll-behavior: smooth;
+    margin:0;
+    padding:0;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-direction: column;
+
+    height:830px;
+    background-image: url(https://media.istockphoto.com/id/1336515040/vector/mountains-and-coniferous-forest-landscape.jpg?s=2048x2048&w=is&k=20&c=SQBv0VFzCRuZeXiIs8-4T4FmFOdMwRRZHutrjUYt6yM=);
+    
+}
+.top-title{
+    color: #0e8080;
+    margin-top: 200px;
+    font-family:  cursive;
+}
+h1{
+    color: #0e8080;
+    font-family: "Sacramento", cursive;
+    font-size: 3rem;
+
+}
+.second-page{
+   
+    
+    height: 830px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.profile{
+    margin-top: 250px;
+    width: 200px;
+    border-radius: 50%;
+}
+.caption > h1{
+    text-align: center;
+    font-family: cursive;
+}
+.caption > p{
+    color: rgb(138, 203, 203);
+    text-align: center;
+    font-family:monospace;
+    font-size: 20px;
+    font-weight: 1000;
+}
+#dots{
+    color: rgb(200, 233, 233);
+    font-size: 50px;
+}
+.third-page{
+    height: 830px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.prj-1 > img, .prj-2 > img{
+    float: left;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    width: 200px;
+}
+.fourth-page{
+    height:830px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.fourth-page>h1{
+    font-family: monospace;
+}
+.fourth-page>p{
+    font-size: 60px;
+    font-weight: 900;
+    color:#0e8080;
+}
+.contact-me{
+    text-align: center;
+    border: solid 5px black;
+    background-color: rgb(67, 173, 173);
+    width:100px;
+    border-radius: 15%;
+    color: white;
+}
+footer{
+   
+    background-color: #93dbdb;
+    color: rgb(25, 172, 172);
+    text-align: center;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+a{
+    color:rgb(25, 172, 172);
+}
